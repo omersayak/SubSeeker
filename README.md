@@ -35,9 +35,12 @@ How to Use:
 
 
 
+
+
+
 1. <target_domain>: The domain name you want to perform discovery on (e.g., example.com).
    
-2.[options]: Optional arguments for different output formats and additional options. For details, use the -h option to access the help menu.
+2. [options]: Optional arguments for different output formats and additional options. For details, use the -h option to access the help menu.
 
 
 
