@@ -11,7 +11,7 @@ console = Console()
 
 
 def show_panel():
-    panel = Panel("[bold cyan]Subdomain Detect[/bold cyan]\nSubdomain detection tool", subtitle="[yellow]Author: Ömer ŞAYAK[/yellow]")
+    panel = Panel("[bold cyan]SubSeeker[/bold cyan]\nSubdomain detection tool", subtitle="[yellow]Author: Ömer ŞAYAK[/yellow]")
     console.print(panel)
 
 
