@@ -36,14 +36,16 @@ How to Use:
 
 
 1. <target_domain>: The domain name you want to perform discovery on (e.g., example.com).
+   
 2.[options]: Optional arguments for different output formats and additional options. For details, use the -h option to access the help menu.
+
 
 
 Options:
 
--u, --urls: Outputs the resolved subdomains as URLs starting with https://.
--m, --masscan: Lists resolved IP addresses, one per line, suitable for input into Masscan with the -iL option.
--o, --output: Specifies the file path to write the results to. If not provided, outputs will be printed to standard output (the screen).
+    -u, --urls: Outputs the resolved subdomains as URLs starting with https://.
+    -m, --masscan: Lists resolved IP addresses, one per line, suitable for input into Masscan with the -iL option.
+    -o, --output: Specifies the file path to write the results to. If not provided, outputs will be printed to standard output (the screen).
 
 Example Usage:
 
