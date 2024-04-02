@@ -6,8 +6,11 @@ SubSeeker is a Python tool designed for discovering subdomains of a target domai
 Features:
 
 1- Extracts subdomain information from SSL certificates.
+
 2- Resolves IP addresses of subdomains.
+
 3- Lists active subdomains along with their corresponding IP addresses.
+
 4- Outputs results as a list of URLs or a list of IPs compatible with masscan.
 
 
